@@ -7,5 +7,6 @@ public class PRUEBA {
 		System.out.println("prueba 2");
 		System.out.println("creacion de rama");
 		System.out.println("rama3");
+		System.out.println("rama3");
 	  }
 }
