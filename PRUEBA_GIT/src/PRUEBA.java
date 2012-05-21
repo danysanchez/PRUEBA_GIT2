@@ -8,5 +8,6 @@ public class PRUEBA {
 		System.out.println("creacion de rama");
 		System.out.println("rama3");
 		System.out.println("rama3");
+		System.out.println("se crea la rama");
 	  }
 }
